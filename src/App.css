@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.button {
+  margin: 0 5px;
+  padding: 5px 10px;
+  background: rgb(57, 132, 69);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.word-container {
+  padding: 10px 0; 
+}
